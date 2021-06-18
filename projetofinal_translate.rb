@@ -7,7 +7,7 @@ require 'securerandom'
 class Translate
     def initialize
 
-        @subscription_key = 'a755175ca6e640ddbb811c1edd245e90'
+        @subscription_key = '[Key da api da Microsoft]'
         @subscription_region = 'brazilsouth'
 
         @endpoint = 'https://api.cognitive.microsofttranslator.com'
